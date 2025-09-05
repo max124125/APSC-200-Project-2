@@ -5,6 +5,8 @@ The goal of this project was to create and rocket, that once launched from an ai
 Photos of the design we chose can be found in the image below and to the left, showing the rocket tube, the flaps that fold out to release the parachute, and the parachute itself.  
 
 On the bottom right is an image showing the rocket just below its apogee of (~12m) with its parachute deploying.
+
+Please find the final report submitted by our group in the section above.
 <p float="left">
   <img src="https://github.com/user-attachments/assets/fd7190ec-a961-4173-b2b4-657ef3093a67" width="420" />
   <img src="https://github.com/user-attachments/assets/5181142e-8eec-4573-a4fc-43aeb939185a" width="325" /> 
