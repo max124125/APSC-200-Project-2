@@ -14,8 +14,5 @@ Above and to the right is an image showing the rocket just below its apogee of (
  
 Please find the final report submitted by our group in the section above.
 
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+
+$${\color{red}Red}$$
