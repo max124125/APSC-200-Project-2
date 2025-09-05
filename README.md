@@ -13,6 +13,3 @@ Photos of the design we chose can be found in the image above and to the left, s
 Above and to the right is an image showing the rocket just below its apogee of (~12m) with its parachute deploying.
  
 Please find the final report submitted by our group in the section above.
-
-
-$${\color{red}Red}$$
