@@ -8,7 +8,7 @@
 This is a brief summary of the drone project that made up part 2 of our APSC 200 course.
 The goal of this project was to create and rocket, that once launched from an air cannon, would get as high as possible before releasing its parachute and gently coming to the ground undamaged.
 
-Photos of the design we chose can be found in the image above and to the left, showing the rocket tube, the flaps that fold out to release the parachute, and the parachute itself.  
+Photos of the design we chose can be found in the image above and to the left, showing the rocket tube, the parachute, the flaps that fold out to release the parachute, the finally the dummy mass and end caps.  
 
 Above and to the right is an image showing the rocket just below its apogee of (~12m) with its parachute deploying.
 
